@@ -15,6 +15,10 @@
   - Countdown ⏳
   - Stopwatch ⏱️
 
+## 🎯 Demo
+[traytimer.webm](https://github.com/user-attachments/assets/5916b0eb-f676-4081-9931-9a644ee2cc6d)
+
+
 ## 📦 Installation
 
 ### 📥 1. Download Precompiled Binaries
